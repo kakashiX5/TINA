@@ -3356,7 +3356,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  THIS IS TINA BOTz😄
+┌┤✑  THIS IS 𝙏𝙄𝙉𝘼 𝘽𝙊𝙏z❤️🥵💞
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -4177,14 +4177,14 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 Thanks to Me (👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻)
 CHIRAG YOUTUBER(For helping me to deploy qr in replit and answered my every doubts regard this project)
 LOST HACKER ( 45% Credits goes to him ,in this script)
-And Again Me (CHIRAG YOUTUBER 🥵 😈) 🐦 Who Helped Assemble This Sexy Script Don't forget to subscribe youtube channel 😁 youtube.com/c/chiragyoutuber !!! instagram 👀 instagram.com/chirag__youtuber author 👨🏻‍💻 wa.me/+919536476115`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+And Again Me (CHIRAG YOUTUBER 🥵 😈) 🐦 Who Helped Assemble This Sexy Script Don't forget to subscribe youtube channel 😁 youtube.com/c/chiragyoutuber !!! instagram 👀     instagram.com/chirag__youtuber author 👨🏻‍💻          wa.me/+919536476115`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
             default:
                 if (budy.startsWith('=>')) {
                     if (!isCreator) return reply(mess.owner)
                     function Return(sul) {
                         sat = JSON.stringify(sul, null, 2)
-                        bang = util.format(sat)
+                        bang = util.format(sat) 
                             if (sat == undefined) {
                                 bang = util.format(sul)
                             }
