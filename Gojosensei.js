@@ -1776,7 +1776,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 GOJO-SATORU HERE🎉 」\n\n${text}`
+                      let txt = `「 ＴＩＮＡ BOTz HERE🎉 」\n\n${text}`
                       GojoMdNx.send5ButImg(i, txt, GojoMdNx.user.name, global.thumb, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -1810,7 +1810,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 GOJO-SATORU HERE 🎉」\n\n${text}`
+                      let txt = `「 ＴＩＮＡ BOTz HERE 🎉」\n\n${text}`
                       GojoMdNx.send5ButImg(yoi, txt, GojoMdNx.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
@@ -3528,11 +3528,11 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c15f725add0381fb69c4b.jpg' }, caption: `*Hi Bro ${m.pushName}*\nDonation section is currently down🥲 , DO NOT DONATE BUT PLEASE SUBSCRIBE MY CHANNEL 😁 LINK - youtube.com/c/chiragyoutuber\n` }, { quoted: m })
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c15f725add0381fb69c4b.jpg' }, caption: `*Hi Bro ${m.pushName}*\nDonate me on paytm - 919536476115 upi id - 9536476115@paytm,DONATE NOW AND DON'T FORGET TO SUBSCRIBE MY CHANNEL 😁 LINK - youtube.com/c/chiragyoutuber\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
-                reply(`GitHub : https://github.com/LOSTHACKEROFC/TINA\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget TO SUBSCRIBE MY CHANNEL ❤️`)
+                reply(`GitHub : https://github.com/LOSTHACKEROFC/TINA\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget TO SUBSCRIBE MY CHANNEL ❤️ LINK - youtube.com/c/chiragyoutuber`)
             }
             break
 case 'allmenu': {
