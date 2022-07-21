@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919536476115']
-global.premium = ['919536476115']
-global.ownernomer = '919536476115'
-global.ownername = '👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻'
-global.botname = '🥵˜”*°•𝙏𝙄𝙉𝘼 𝘽𝙊𝙏𝙕•°*”˜ 🥵'
+global.owner = ['919641106447']
+global.premium = ['919641106447']
+global.ownernomer = '9196411064475'
+global.ownername = 'kaka shi'
+global.botname = '🥵˜”*°•animebangla•°*”˜ 🥵'
 global.footer = '👨🏻‍💻❤️ CHIRAG YOUTUBER ❤️👨🏻‍💻'
 global.ig = 'https://instagram.com/chirag_youtuber_official'
 global.region = 'CHICAGO CITY , California, USA'
 global.sc = 'https://github.com/LOSTHACKEROFC/TINA'
 global.myweb = 'https://youtube.com/c/chiragyoutuber'
-global.packname = '𝙏𝙄𝙉𝘼 𝘽𝙊𝙏𝙕'
+global.packname = 'kakashi'
 global.author = '👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
